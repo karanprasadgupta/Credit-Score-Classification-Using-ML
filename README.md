@@ -17,7 +17,9 @@ The project aims to build and evaluate different machine-learning models to pred
 
 ## Project Overview
 Credit score classification is a complex problem, depending on many parameters and factors. Payment history, debt-to-credit ratio, length of credit history, new credit, and the amount of credit you have all play a role in your credit report and credit score. All this data is readily available as details of transactions are recorded for all users, and the majority of the youth also use credit cards. In this project, we want to classify the credit score as good, bad, and standard by using these factors and achieving reasonable accuracy. Occupation is also an essential factor for determining the capacity of the user, and many lenders use it for the same.<br>
+
 The **Credit Score Classification Using ML** project aims to develop machine learning models to predict credit scores accurately. The project leverages a dataset of historical credit information and uses various machine learning algorithms to build predictive models. The repository provides code, documentation, and resources necessary to reproduce the results and extend the project further.<br>
+
 Also, in this project, we are classifying credit scores without occupation as this leads to discrimination, and occupations should be treated equally and respectfully. This will also help people with undervalued occupations to get loans if they are eligible.
 
 ## Installation
